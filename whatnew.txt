@@ -1,14 +1,5 @@
-#for you it is pyqt5
-#MessageBox and Button
-#pip install requests
-#part of standard library
-#part of standard library
-#for you it is pyqt5
-#MessageBox and Button
-#pip install requests
-#part of standard library
-#part of standard library#for you it is pyqt5
-#MessageBox and Button
-#pip install requests
-#part of standard library
-#part of standard library
+- Thêm trình dịch sub hàng loạt
+- Có thể tick chọn để xóa video
+- Tách video hàng loạt
+- Fix lỗi: more than 1000 frames duplicated
+- Thêm nhà cung cấp voice 'FreeTTS'
