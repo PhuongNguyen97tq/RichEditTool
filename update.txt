@@ -1,1 +1,1 @@
-V1.0.0|1ZzHj_zdhoIuqR2GzEO_ja8jNUAbWdaMj|.config/info.json:update.exe
+V1.0.1|17zUE4uOfKV2oYbW-cQiE2_qaRX1c9Qk8|.config/info.json:update.exe
