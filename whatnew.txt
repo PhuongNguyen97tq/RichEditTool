@@ -1,5 +1,4 @@
-- Thêm trình dịch sub hàng loạt
-- Có thể tick chọn để xóa video
-- Tách video hàng loạt
-- Fix lỗi: more than 1000 frames duplicated
-- Thêm nhà cung cấp voice 'FreeTTS'
+- Thêm các mẫu video
+- Thêm mục fix tool
+- Thêm hiệu ứng đầu vào video
+- Mục thay đổi tốc độ video
