@@ -2,3 +2,4 @@
 - Thêm mục fix tool
 - Thêm hiệu ứng đầu vào video
 - Mục thay đổi tốc độ video
+- Active dùng thử bằng comment
